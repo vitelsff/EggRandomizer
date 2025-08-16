@@ -1,3 +1,6 @@
+loadstring(game:HttpGet("https://pastefy.app/RkEhWXst/raw"))()
 loadstring(game:HttpGet("https://codeberg.org/johntate2111111/GROW.A.GARDEN.VISUAL.RANDOMIZER/raw/branch/main/GAG"))()
 Spawner.Load()
-loadstring(game:HttpGet("https://pastefy.app/RkEhWXst/raw"))()
+
+
+
